@@ -1,5 +1,5 @@
 # Livro de Receitas :man_cook:
 
-Aqui está as minha Incríveis receitas: 
+Aqui está minhas incríveis receitas: 
 
 - Pizza
