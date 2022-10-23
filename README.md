@@ -4,3 +4,4 @@ Aqui está minhas incríveis receitas:
 
 - Pizza
 - Cookie
+- Strogonoff
